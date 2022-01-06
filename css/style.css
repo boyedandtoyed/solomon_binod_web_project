@@ -5,11 +5,11 @@
   color: #eee;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#main{
+#main {
   width: 100%;
   background-color: #251a25;
 }
-#img-caption{
+#img-caption {
   width: 100%;
 }
 img {
@@ -17,4 +17,14 @@ img {
   display: block;
   height: auto;
   margin: 0 auto;
+}
+span {
+  font: 200;
+}
+#title {
+  padding: auto 25px;
+  text-align: center;
+}
+#tribute-info {
+  padding: 30px;
 }
