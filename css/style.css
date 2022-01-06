@@ -10,10 +10,17 @@ body{
   flex-direction: column;
   align-items: center;
   align-content: center;
+  background-color: #251a25;
 }
 #main {
-  width: 80vw;
-  background-color: #251a25;
+  width: 85vw;
+}
+#main #title{
+  font-size: 2.5rem;
+  color: #eee;
+  text-align: center;
+  margin: 1.2em 0;
+  font-family: cursive;
 }
 #img-caption {
   width: 100%;
