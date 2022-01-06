@@ -54,9 +54,15 @@ span {
 #tribute-info p {
   font-size: 1.2rem;
   text-align: center;
-  margin: 1.2em 0;
+  margin: 20px 0;
   font-family: cursive;
+  display: flex;
 }
 #tribute-info b {
   float: left;
+  margin-right: 10px;
+}
+#tribute-info span {
+  float: left;
+  text-align: left;
 }
