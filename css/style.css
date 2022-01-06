@@ -38,10 +38,16 @@ img {
 span {
   font: 200;
 }
-#title {
-  padding: auto 25px;
-  text-align: center;
-}
+
 #tribute-info {
   padding: 30px;
+}
+#tribute-info h2 {
+  font-size: 1.5rem;
+  font-style: oblique;
+  text-decoration: underline;
+  text-align: center;
+  margin: 1.2em 0;
+  font-weight: bolder;
+  font-family: cursive;
 }
